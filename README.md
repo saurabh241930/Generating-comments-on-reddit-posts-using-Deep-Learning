@@ -15,9 +15,9 @@ Libraries & packages used here:
 * Reddit Api
 * Python
 
-We gone with keras functional because we have to deal with image & text data and added them
+We gone with **keras functional api** because we have to deal with image & text data and added them
 
-This was our first approach
+## 1st approach
 
 ![](https://miro.medium.com/max/700/1*eXHuTqiRc1f6fKjOVKEgxQ.png)
 
@@ -25,14 +25,14 @@ for this approach the neural network we used is this
 
 <img src="https://i.ibb.co/ZcvP0kg/Whats-App-Image-2019-07-17-at-10-59-44-PM.jpg">
 
-Here are some of the results
+### Here are some of the results
 
 ![](https://cdn-images-1.medium.com/max/800/0*9MmWcpJSkZ8a-Qb4)
 ![](https://cdn-images-1.medium.com/max/800/0*iAAcJaAEI9betVeM)
 ![](https://cdn-images-1.medium.com/max/800/0*JS8ZpriBNa30fkN0)
 ![](https://cdn-images-1.medium.com/max/800/0*zIh0ANoMt-uetga9)
 
-Our second approach
+## 2nd approach
 
 we combined title text and image as a input
 
@@ -44,4 +44,6 @@ for that we used this neural network
 <img src="https://i.imgur.com/QwFkxHJ.jpg" border=0>
 
 
+### results for 2nd approach
 
+<img src="https://i.imgur.com/2XJoaFG.jpg" border=0>
