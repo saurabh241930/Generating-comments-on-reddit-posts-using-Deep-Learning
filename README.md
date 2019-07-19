@@ -19,7 +19,11 @@ We gone with keras functional because we have to deal with image & text data and
 
 This was our first approach
 
-<a href="https://ibb.co/j3q2S1w"><img src="https://i.ibb.co/ZcvP0kg/Whats-App-Image-2019-07-17-at-10-59-44-PM.jpg" alt="Whats-App-Image-2019-07-17-at-10-59-44-PM" border="0"></a>
+![](https://miro.medium.com/max/700/1*eXHuTqiRc1f6fKjOVKEgxQ.png)
+
+for this approach the neural network we used is this
+
+<img src="https://i.ibb.co/ZcvP0kg/Whats-App-Image-2019-07-17-at-10-59-44-PM.jpg">
 
 Here are some of the results
 
@@ -27,6 +31,17 @@ Here are some of the results
 ![](https://cdn-images-1.medium.com/max/800/0*iAAcJaAEI9betVeM)
 ![](https://cdn-images-1.medium.com/max/800/0*JS8ZpriBNa30fkN0)
 ![](https://cdn-images-1.medium.com/max/800/0*zIh0ANoMt-uetga9)
+
+Our second approach
+
+we combined title text and image as a input
+
+<img src="https://i.imgur.com/pjUIFo1.png" border=0>
+
+for that we used this neural network
+
+
+<img src="https://i.imgur.com/QwFkxHJ.jpg" border=0>
 
 
 
