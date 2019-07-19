@@ -15,6 +15,12 @@ Libraries & packages used here:
 * Reddit Api
 * Python
 
+We gone with keras functional because we have to deal with image & text data and added them
+
+This was our first approach
+
+<a href="https://ibb.co/j3q2S1w"><img src="https://i.ibb.co/ZcvP0kg/Whats-App-Image-2019-07-17-at-10-59-44-PM.jpg" alt="Whats-App-Image-2019-07-17-at-10-59-44-PM" border="0"></a>
+
 Here are some of the results
 
 ![](https://cdn-images-1.medium.com/max/800/0*9MmWcpJSkZ8a-Qb4)
